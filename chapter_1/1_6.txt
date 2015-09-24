@@ -1,0 +1,1 @@
+new-if is a function. And each of the parameter will be computed, which cause stackoverflow
